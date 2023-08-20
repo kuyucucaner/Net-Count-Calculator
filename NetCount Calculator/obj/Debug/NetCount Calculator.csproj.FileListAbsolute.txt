@@ -1,0 +1,10 @@
+C:\Users\tahac\source\repos\NetCount Calculator\NetCount Calculator\bin\Debug\NetCount Calculator.exe.config
+C:\Users\tahac\source\repos\NetCount Calculator\NetCount Calculator\bin\Debug\NetCount Calculator.exe
+C:\Users\tahac\source\repos\NetCount Calculator\NetCount Calculator\bin\Debug\NetCount Calculator.pdb
+C:\Users\tahac\source\repos\NetCount Calculator\NetCount Calculator\obj\Debug\NetCount Calculator.csproj.AssemblyReference.cache
+C:\Users\tahac\source\repos\NetCount Calculator\NetCount Calculator\obj\Debug\NetCount_Calculator.Form1.resources
+C:\Users\tahac\source\repos\NetCount Calculator\NetCount Calculator\obj\Debug\NetCount_Calculator.Properties.Resources.resources
+C:\Users\tahac\source\repos\NetCount Calculator\NetCount Calculator\obj\Debug\NetCount Calculator.csproj.GenerateResource.cache
+C:\Users\tahac\source\repos\NetCount Calculator\NetCount Calculator\obj\Debug\NetCount Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tahac\source\repos\NetCount Calculator\NetCount Calculator\obj\Debug\NetCount Calculator.exe
+C:\Users\tahac\source\repos\NetCount Calculator\NetCount Calculator\obj\Debug\NetCount Calculator.pdb
